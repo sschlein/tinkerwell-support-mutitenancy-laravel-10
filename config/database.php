@@ -47,7 +47,7 @@ return [
 
         'tenant_test_1' => [
             'driver' => 'mysql',
-            'database' => 'tenant_test_1',
+            'database' => 'tenant_tinkerwell',
             'host' => '127.0.0.1',
             'username' => 'root',
             'password' => '',
@@ -77,7 +77,7 @@ return [
 
         'landlord' => [
             'driver' => 'mysql',
-            'database' => 'name_of_landlord_db',
+            'database' => 'landlord_tinkerwell',
             'host' => '127.0.0.1',
             'username' => 'root',
             'password' => '',
